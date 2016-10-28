@@ -22,7 +22,6 @@ void hanoi(int n, char x, char y, char z)
 }
 int main()
 {
-	//cout << "hello world" << endl;
 	char x = 'x';
 	char y = 'y';
 	char z = 'z';
